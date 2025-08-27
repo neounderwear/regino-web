@@ -66,7 +66,10 @@ const Header: React.FC<HeaderProps> = ({ activePage }) => {
               </a>
             );
           })}
-          <a href="#" className="text-white border border-white rounded-md px-5 py-2 text-sm font-bold text-center mt-2">
+          <a
+            href="https://api.whatsapp.com/send/?phone=6281357365813&text=Halo+Regino+Store%2C+saya+mau+tanya+soal+produknya&type=phone_number&app_absent=0"
+            className="text-white border border-white rounded-md px-5 py-2 text-sm font-bold text-center mt-2"
+          >
             Hubungi kami
           </a>
         </nav>

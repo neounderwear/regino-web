@@ -10,11 +10,10 @@ const AboutUs: React.FC = () => {
             Tentang Regino Store
           </h2>
           <p className="mt-6 text-justify text-base sm:text-lg text-gray-300 leading-relaxed opacity-0 animate-fadeInUp" style={{ animationDelay: "0.4s" }}>
-            Regino Store adalah toko underwear multibrand yang menghadirkan kenyamanan, gaya, dan kualitas untuk semua kalangan — pria, wanita, dewasa, hingga anak-anak. Kami percaya, pakaian dalam bukan hanya kebutuhan sehari-hari, tetapi
-            juga kunci rasa percaya diri. Karena itu, setiap produk yang kami hadirkan dipilih secara teliti: nyaman dipakai, berbahan berkualitas, dan tetap mengikuti tren.
+            Regino Store adalah toko underwear multi brand yang menghadirkan kenyamanan, gaya, dan kualitas untuk semua kalangan — pria, wanita, dewasa, hingga anak-anak. Kami percaya, pakaian dalam bukan hanya kebutuhan sehari-hari, tetapi juga kunci rasa percaya diri. Karena itu, setiap produk yang kami hadirkan dipilih secara teliti: nyaman dipakai, bahan berkualitas, dan tetap mengikuti tren.
           </p>
           <p className="mt-4 text-justify text-base sm:text-lg text-gray-300 leading-relaxed opacity-0 animate-fadeInUp" style={{ animationDelay: "0.6s" }}>
-            Dengan pilihan model, ukuran, dan material yang ramah kulit, Regino Store menjadi solusi lengkap untuk kebutuhan underwear keluarga Anda. Belanja pun jadi lebih mudah, aman, dan praktis — cukup satu klik, berbagai underwear
+            Dengan pilihan model, ukuran, dan material yang ramah di kulit, Regino Store menjadi solusi lengkap untuk kebutuhan underwear keluarga Anda. Belanja pun jadi lebih mudah, aman, dan praktis — cukup satu klik, berbagai underwear
             original dan terpercaya siap sampai ke rumah Anda.
           </p>
         </div>

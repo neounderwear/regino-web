@@ -10,7 +10,7 @@ const Services: React.FC = () => {
             Kami senantiasa memberikan pelayanan terbaik.
           </h2>
           <p className="mt-6 text-base sm:text-lg text-gray-600 leading-relaxed opacity-0 animate-fadeInUp" style={{ animationDelay: "0.6s" }}>
-            Regino Store hadir untuk memberikan pengalaman berbelanja pakaian dalam yang nyaman, elegan, dan penuh percaya diri. Kami percaya bahwa kenyamanan dari dalam adalah kunci untuk tampil lebih percaya diri di luar.
+            Regino Store hadir untuk memberikan pengalaman berbelanja pakaian dalam yang nyaman, elegan, dan penuh percaya diri. Kami percaya bahwa kenyamanan dari dalam adalah kunci untuk tampil lebih percaya diri.
           </p>
         </div>
       </div>
